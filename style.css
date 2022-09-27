@@ -19,6 +19,11 @@ h2 {
     padding-bottom: 100vmin;
 }
 
-#sec2 p {
+#sec2 p,
+li {
     font-size: 1.5rem;
+}
+
+#list {
+    padding-top: 50px;
 }
