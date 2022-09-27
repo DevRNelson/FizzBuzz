@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+#sec1,
+#sec2 {
+    text-align: center;
+    background-image: linear-gradient(rgb(120, 206, 255), rgb(255, 255, 255));
+}
+
+#sec2 p,
+h2 {
+    margin-top: 5vmin;
+}
+
+#sec2 {
+    padding-bottom: 100vmin;
+}
+
+#sec2 p {
+    font-size: 1.5rem;
+}
